@@ -1,4 +1,4 @@
-SlimOTA
+XOSP OTA
 -------
 A very simple OTA checker with Android Settings look and feel.
 

@@ -18,8 +18,8 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">SlimOTA</string>
-    <string name="app_title">System updates</string>
+    <string name="app_name">XOSPOTA</string>
+    <string name="app_title">XOSPOTA</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>
