@@ -51,5 +51,9 @@
     <string name="no_changelog_summary">No changelog</string>
     <string name="changelog_title">Changelog</string>
     <string name="changelog_summary">Current changelog</string>
+	
+	<!-- Note dialog -->
+	<string name="xospota_note_title">Note before updating!</string>
+	<string name="xospota_note_summary">When you update the ROM through OTA remember always to flash the XOSPApps after the GApps flashing process!</string>
 
 </resources>
