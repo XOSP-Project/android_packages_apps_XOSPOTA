@@ -17,7 +17,8 @@
 
 <resources>
     <!-- Palette colors referenced by top-level themes. -->
-    <color name="theme_primary">#ff263238</color>
-    <color name="theme_primary_dark">#ff21272b</color>
-    <color name="theme_accent">#ff283593</color>
+    <color name="windowBackground">#ff222222</color>
+    <color name="colorPrimary">#ff161616</color>
+    <color name="colorPrimaryDark">#ff0e0e0e</color>
+    <color name="theme_accent">#ff458cf5</color>
 </resources>

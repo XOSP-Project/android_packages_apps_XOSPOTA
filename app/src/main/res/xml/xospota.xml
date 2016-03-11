@@ -18,12 +18,6 @@
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:title="@string/app_name">
-		
-		<PreferenceScreen
-			style="?android:preferenceInformationStyle"
-			android:title="@string/xospota_note_title"
-			android:summary="@string/xospota_note_summary"
-			android:selectable="false" />
 	
     <PreferenceCategory
         android:title="@string/ota_category">
